@@ -16,7 +16,7 @@ We recommend you to use Composer to install ZfrMailChimp:
 
 ```sh
 php composer.phar require zfr/zfr-mailchimp-module:dev-master
-```sh
+```
 
 Enable ZfrMailChimpModule in your `application.config.php`, then copy-paste the file `zfr_mailchimp.local.php.dist` (that
 you can find in the `config` folder of the module) to your `autoload` folder (don't forget to remove the .dist at
