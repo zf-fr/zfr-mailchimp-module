@@ -1,6 +1,8 @@
 ZfrMailChimpModule
 ==================
 
+[![Latest Stable Version](https://poser.pugx.org/zfr/zfr-mailchimp-module/v/stable.png)](https://packagist.org/packages/zfr/zfr-mailchimp-module)
+
 ZfrMailChimpModule is a Zend Framework 2 module based on [ZfrMailChimp](https://github.com/zf-fr/zfr-mailchimp).
 
 Requirements
