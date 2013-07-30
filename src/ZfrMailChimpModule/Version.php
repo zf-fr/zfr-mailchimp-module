@@ -24,5 +24,5 @@ namespace ZfrMailChimpModule;
  */
 class Version
 {
-    const VERSION = '1.0.0-beta2';
+    const VERSION = '1.0.0';
 }
