@@ -21,7 +21,7 @@
   "require": {
     "php": ">=5.3.3",
     "zendframework/zend-servicemanager": "2.*",
-    "zfr/zfr-mailchimp": "1.0.*"
+    "zfr/zfr-mailchimp": "~1.1"
   },
   "autoload": {
     "psr-0": {
